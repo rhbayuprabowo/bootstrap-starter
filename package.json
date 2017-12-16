@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-starter",
+  "name": "bs4starter",
   "version": "1.0.0",
   "description": "Bootstrap 4 starter workflow",
   "main": "index.js",
@@ -9,10 +9,10 @@
   "author": "R. H. Bayu Prabowo",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^4.0.0-beta.2",
+    "bootstrap": "4.0.0-beta",
     "font-awesome": "^4.7.0",
-    "jquery": "^1.12.4",
-    "popper.js": "^1.12.9"
+    "jquery": "^3.2.1",
+    "popper.js": "^1.11.1"
   },
   "devDependencies": {
     "browser-sync": "^2.18.13",
